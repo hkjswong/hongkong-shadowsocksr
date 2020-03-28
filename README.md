@@ -5,7 +5,14 @@
 > 原生IP：除去谷歌雲以及香港阿里雲兩個其餘的全是原生IP但是IPLC也要看質量也有不是原生IP的 價格為 HKT以及PCWW高於IPLC
 - 分析：谷歌雲雖然妳能搭建香港的ssr但是他的物理geo ip地址始終是美國的 ，阿里雲也是他的物理地址也是在美國/中國 這個具體位置在在哪兒下載quantumult即可查看
 - 這個是香港阿里雲的IP 我們拿viuTV做實測 
+![picture](https://github.com/hkjswong/hongkong-shadowsocksr/blob/master/%E9%A6%99%E6%B8%AFip.jpg )
+
 - 由圖可見雖然是香港ssr但是不是原生IP，真實物理地址是在中國
+- ip.cn
+- ![picture](https://github.com/hkjswong/hongkong-shadowsocksr/blob/master/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202020-03-28%2016.56.11.png )
+
+- 非原生IP無法觀看viuTV
+![picture](https://github.com/hkjswong/hongkong-shadowsocksr/blob/master/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202020-03-28%2016.56.03.png )
 - 對於資金不充足的機場主用這種VPS也是可以的，但是如果妳是一個需求原生IP的用戶話可以先看看機場的節點列表如果不滿意的的話即可不夠買服務
 
 ### 總結：如果IP的真實物理地址與IP吻合的話就是地道的原生IP，否則就是非原生IP
