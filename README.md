@@ -8,7 +8,7 @@
 ![picture](https://github.com/hkjswong/hongkong-shadowsocksr/blob/master/%E9%A6%99%E6%B8%AFip.jpg )
 
 - 由圖可見雖然是香港ssr但是不是原生IP，真實物理地址是在中國
-- ![picture](https://github.com/hkjswong/hongkong-shadowsocksr/blob/master/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202020-03-28%2016.56.11.png )
+![picture](https://github.com/hkjswong/hongkong-shadowsocksr/blob/master/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202020-03-28%2016.56.11.png )
 
 - 非原生IP無法觀看viuTV
 ![picture](https://github.com/hkjswong/hongkong-shadowsocksr/blob/master/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202020-03-28%2016.56.03.png )
